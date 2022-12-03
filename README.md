@@ -1,6 +1,6 @@
 <p align="center"> 
   Visitor count<br>
-  <img width=40% src="https://profile-counter.glitch.me/Asalek/count.svg" />
+  <img width=40% src="https://profile-counter.glitch.me/ismailAkyaou/count.svg" />
 </p>
 
 
