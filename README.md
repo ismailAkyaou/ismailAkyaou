@@ -13,12 +13,6 @@
 [![iakyaou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailAkyaou&show_icons=true&theme=dracula&show=prs,issues,contribs)](https://github.com/ismailAkyaou/github-readme-stats)
 
 
-<div>
-<h2>🏆 Github Profile Trophy</h2>
-<img width=1500 src="https://github-profile-trophy.vercel.app/?username=ismailAkyaou&column=8&theme=gruvbox&no-frame=true"/>
-</div>
-<hr/>
-
 These are all my projects in the 42Cursus of [1337_MOROCCO](https://www.1337.ma/).
 
 ## Rank 0
