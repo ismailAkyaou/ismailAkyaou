@@ -19,7 +19,7 @@ These are all my projects in the 42Cursus of [1337_MOROCCO](https://www.1337.ma/
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-libft								|	[libft/](https://github.com/ismailAkyaou/libft)		| *.c, libft.h, Makefile | [100](https://github.com/ismailAkyaou/LibFt)
+libft								|	[libft/](https://github.com/ismailAkyaou/libft.h)		| *.c, libft.h, Makefile | [100](https://github.com/ismailAkyaou/libft.h)
 
 ## Rank 1
 
