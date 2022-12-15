@@ -12,6 +12,11 @@
 
 [![iakyaou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismailAkyaou&show_icons=true&theme=dracula&show=prs,issues,contribs)](https://github.com/ismailAkyaou/github-readme-stats)
 
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ismailAkyaou)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ismailAkyaou)
+
+
+
 
 These are all my projects in the 42Cursus of [1337_MOROCCO](https://www.1337.ma/).
 
