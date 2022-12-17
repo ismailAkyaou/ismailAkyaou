@@ -35,3 +35,9 @@ libft								|	[libft/](https://github.com/ismailAkyaou/libft.h)		| *.c, libft.h
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 printf								|	[ft_printf/](https://github.com/ismailAkyaou/ft_printf)		| *.c, *.h, Makefile | [100](https://github.com/ismailAkyaou/ft_printf)
+
+## Rank 2
+
+|			Name				|	Directory	| Repo Files | Mark |
+|:-----------------------------------:|:------------------:|:--------------:|:--------------:|
+get_next_line-42					|	[get_next_line-42](https://github.com/ismailAkyaou/get_next_line-42)		| *.c, *.h, Makefile | [125](https://github.com/ismailAkyaou/get_next_line-42)
