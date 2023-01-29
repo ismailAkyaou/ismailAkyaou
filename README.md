@@ -6,6 +6,8 @@
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/ismailAkyaou)
 [![Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=black)](https://github.com/ismailAkyaou)
 
+<a href="https://github.com/rouali98">
+		<img  src="https://badge.mediaplus.ma/greenbinary/rouali" width="475px" alt="rouali's 42 stats" />
 
 <p align="center"> 
   Visitor count<br>
