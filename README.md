@@ -2,11 +2,6 @@
     width="30px" height="30px">, I'm Ismail Akyaou</h1>
      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 
-</a>
-		<a href="https://app.daily.dev/iakyaou">
-		<img src="https://api.daily.dev/devcards/6edde52f741b4160b1073c3fe607f07f.png?r=1si" width="215px" alt="ISMAIL AKYAOU's Dev Card" />
-	</a>
-
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/ismailAkyaou)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/ismailAkyaou)
