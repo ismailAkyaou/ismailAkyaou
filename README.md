@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"
-    width="30px" height="30px">, I'm OUALI Rida</h1>
+    width="30px" height="30px">, I'm Ismail Akyaou</h1>
      <div align="center" style="display: flex; align-items : center; justify-content : center;">
 
 
