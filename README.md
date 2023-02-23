@@ -47,4 +47,4 @@ get_next_line-42					|	[get_next_line-42](https://github.com/ismailAkyaou/get_ne
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-born2beroot-42					|	[born2beroot-42](https://github.com/ismailAkyaou/born2beroot-42)		| Monitoring.sh| [125](https://github.com/ismailAkyaou/born2beroot-42)
+born2beroot-42					|	[born2beroot-42](https://github.com/ismailAkyaou/born2beroot)		| Monitoring.sh| [125](https://github.com/ismailAkyaou/born2beroot-42)
