@@ -35,6 +35,6 @@ libft								|	[libft/](https://github.com/ismailAkyaou/libft.h)		| *.c, libft.h
 
 |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
-get_next_line								|	[get_next_line/](https://github.com/ismailAkyaou/get_next_line-42)		| get_next_line.c, get_next_line_utils.c, get_next_line.h | [112](https://https://github.com/ismailAkyaou/get_next_line-42) |
+get_next_line								|	[get_next_line/](https://github.com/ismailAkyaou/get_next_line-42)| *.c, get_next_line.h | [112](https://https://github.com/ismailAkyaou/get_next_line-42) |
 printf								|	[ft_printf/](https://github.com/ismailAkyaou/ft_printf)		| *.c, *.h, Makefile | [100](https://github.com/ismailAkyaou/ft_printf)
 born2beroot								|	[born2beroot/](https://github.com/ismailakyaou/born2beroot)		| monitoring.sh | [110](https://github.com/ismailakyaou/Born2beRoot)
