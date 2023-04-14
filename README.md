@@ -47,9 +47,9 @@ Minitalk-42								|	[Minitalk-42/](https://github.com/ismailAkyaou/Minitalk-42)
    
     
  
-    |			Name				|	Directory	| Repo Files | Mark |
+ |			Name				|	Directory	| Repo Files | Mark |
 |:-----------------------------------:|:------------------:|:--------------:|:--------------:|
 Fract_ol-42								|	[Fract_ol-42/](https://github.com/ismailAkyaou/fracta_al)		| *.c, fract_al.h, Makefile | [100](https://github.com/ismailAkyaou/fracta_al)
-    
+ 
 
 
